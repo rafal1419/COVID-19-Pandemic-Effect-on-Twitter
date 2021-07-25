@@ -1,0 +1,19 @@
+Topic 0: 0.067*"covid 19" + 0.026*"die" + 0.015*"covid" + 0.015*"case" + 0.010*"think" + 0.009*"high" + 0.009*"coronavirus" + 0.009*"reopen" + 0.008*"state" + 0.008*"school"
+
+Topic 1: 0.076*"covid" + 0.023*"get" + 0.016*"like" + 0.014*"say" + 0.014*"know" + 0.011*"protest" + 0.011*"one" + 0.011*"people" + 0.010*"think" + 0.009*"look"
+
+Topic 2: 0.087*"covid" + 0.026*"get" + 0.014*"fuck" + 0.012*"test" + 0.010*"shit" + 0.009*"people" + 0.008*"work" + 0.008*"real" + 0.007*"day" + 0.007*"back"
+
+Topic 3: 0.055*"trump" + 0.042*"covid 19" + 0.027*"people" + 0.021*"ral" + 0.018*"covid" + 0.016*"american" + 0.015*"live" + 0.010*"tulsa" + 0.008*"black" + 0.008*"die"
+
+Topic 4: 0.049*"covid 19" + 0.017*"health" + 0.012*"county" + 0.011*"say" + 0.008*"test" + 0.008*"covid" + 0.008*"trump" + 0.007*"need" + 0.007*"virus" + 0.007*"fight"
+
+Topic 5: 0.064*"covid" + 0.021*"covid 19" + 0.016*"still" + 0.015*"case" + 0.015*"people" + 0.014*"number" + 0.014*"cancel" + 0.012*"protest" + 0.011*"worry" + 0.011*"riot"
+
+Topic 6: 0.049*"covid 19" + 0.043*"covid" + 0.031*"death" + 0.023*"test" + 0.015*"people" + 0.010*"negative" + 0.010*"spread" + 0.008*"case" + 0.008*"trump" + 0.008*"state"
+
+Topic 7: 0.041*"covid 19" + 0.022*"covid" + 0.021*"news" + 0.019*"due" + 0.011*"die" + 0.009*"take" + 0.009*"week" + 0.009*"get" + 0.009*"crisis" + 0.008*"time"
+
+Topic 8: 0.059*"covid 19" + 0.039*"case" + 0.037*"new" + 0.022*"death" + 0.011*"report" + 0.010*"day" + 0.010*"pandemic" + 0.010*"wait" + 0.010*"month" + 0.009*"see"
+
+Topic 9: 0.066*"mask" + 0.044*"wear" + 0.030*"people" + 0.022*"covid" + 0.016*"covid 19" + 0.013*"say" + 0.011*"maybe" + 0.010*"still" + 0.009*"get" + 0.008*"stop"

@@ -1,0 +1,19 @@
+Topic 0: 0.083*"covid 19" + 0.059*"case" + 0.034*"new" + 0.022*"number" + 0.017*"state" + 0.015*"county" + 0.015*"report" + 0.013*"death" + 0.012*"covid" + 0.011*"day"
+
+Topic 1: 0.052*"covid 19" + 0.030*"2020" + 0.017*"black" + 0.017*"america" + 0.013*"iowa" + 0.012*"fuck" + 0.011*"change" + 0.011*"protest" + 0.011*"live" + 0.010*"american"
+
+Topic 2: 0.054*"covid 19" + 0.052*"trump" + 0.021*"covid" + 0.016*"ral" + 0.012*"health" + 0.012*"not" + 0.009*"busy" + 0.009*"tulsa" + 0.008*"say" + 0.006*"pandemic"
+
+Topic 3: 0.069*"covid 19" + 0.016*"chicago" + 0.013*"famy" + 0.012*"update" + 0.011*"thank" + 0.010*"help" + 0.010*"member" + 0.009*"social" + 0.009*"community" + 0.009*"begin"
+
+Topic 4: 0.032*"covid" + 0.013*"kid" + 0.013*"covid 19" + 0.012*"nurse" + 0.011*"school" + 0.011*"patient" + 0.010*"not" + 0.010*"send" + 0.009*"home" + 0.008*"keep"
+
+Topic 5: 0.065*"covid" + 0.034*"people" + 0.028*"covid 19" + 0.017*"not" + 0.016*"know" + 0.014*"get" + 0.014*"like" + 0.013*"think" + 0.012*"real" + 0.012*"die"
+
+Topic 6: 0.038*"covid 19" + 0.021*"covid" + 0.019*"world" + 0.013*"vaccine" + 0.013*"show" + 0.012*"sport" + 0.011*"test" + 0.010*"meet" + 0.009*"join" + 0.009*"fund"
+
+Topic 7: 0.092*"covid" + 0.020*"get" + 0.016*"year" + 0.014*"day" + 0.014*"since" + 0.013*"protest" + 0.013*"back" + 0.011*"time" + 0.010*"like" + 0.010*"week"
+
+Topic 8: 0.055*"mask" + 0.035*"wear" + 0.031*"covid" + 0.025*"covid 19" + 0.019*"spread" + 0.018*"not" + 0.013*"one" + 0.010*"people" + 0.008*"season" + 0.008*"post"
+
+Topic 9: 0.067*"covid" + 0.041*"test" + 0.036*"get" + 0.026*"covid 19" + 0.021*"not" + 0.015*"work" + 0.012*"people" + 0.009*"tell" + 0.007*"come" + 0.007*"know"

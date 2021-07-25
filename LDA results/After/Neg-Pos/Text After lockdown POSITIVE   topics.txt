@@ -1,0 +1,19 @@
+Topic 0: 0.039*"covid" + 0.023*"covid 19" + 0.019*"work" + 0.012*"come" + 0.012*"people" + 0.011*"many" + 0.011*"make" + 0.008*"member" + 0.008*"take" + 0.008*"together"
+
+Topic 1: 0.070*"covid" + 0.017*"know" + 0.013*"one" + 0.013*"get" + 0.012*"love" + 0.012*"thing" + 0.012*"covid 19" + 0.010*"real" + 0.009*"would" + 0.009*"tell"
+
+Topic 2: 0.030*"covid 19" + 0.026*"covid" + 0.011*"state" + 0.010*"kid" + 0.009*"due" + 0.008*"still" + 0.008*"please" + 0.007*"get" + 0.007*"take" + 0.006*"vote"
+
+Topic 3: 0.053*"covid" + 0.043*"like" + 0.025*"covid 19" + 0.012*"get" + 0.011*"mask" + 0.010*"friend" + 0.010*"feel" + 0.009*"work" + 0.009*"please" + 0.009*"people"
+
+Topic 4: 0.063*"covid 19" + 0.012*"help" + 0.009*"covid" + 0.009*"share" + 0.009*"school" + 0.008*"today" + 0.008*"new" + 0.008*"public" + 0.008*"case" + 0.007*"student"
+
+Topic 5: 0.022*"covid" + 0.019*"thank" + 0.015*"great" + 0.011*"busy" + 0.010*"last" + 0.009*"program" + 0.009*"city" + 0.008*"month" + 0.008*"athlete" + 0.008*"interest"
+
+Topic 6: 0.022*"line" + 0.020*"fight" + 0.019*"worker" + 0.019*"virus" + 0.019*"covid 19" + 0.017*"include" + 0.017*"healthcare" + 0.017*"doctor" + 0.016*"front" + 0.014*"offer"
+
+Topic 7: 0.045*"covid" + 0.042*"test" + 0.033*"covid 19" + 0.024*"get" + 0.018*"day" + 0.018*"free" + 0.015*"today" + 0.014*"first" + 0.010*"back" + 0.010*"time"
+
+Topic 8: 0.047*"covid" + 0.015*"play" + 0.012*"covid 19" + 0.011*"next" + 0.009*"thank" + 0.008*"back" + 0.007*"sit" + 0.006*"say" + 0.006*"lot" + 0.006*"like"
+
+Topic 9: 0.034*"covid 19" + 0.032*"mask" + 0.029*"covid" + 0.021*"wear" + 0.012*"one" + 0.009*"help" + 0.009*"much" + 0.009*"please" + 0.008*"people" + 0.008*"make"
