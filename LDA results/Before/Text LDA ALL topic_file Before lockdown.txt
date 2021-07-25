@@ -1,0 +1,19 @@
+Topic 0: 0.038*"coronavirus" + 0.036*"hand" + 0.022*"wash" + 0.021*"spread" + 0.020*"thank" + 0.020*"covid 19" + 0.018*"stay" + 0.017*"please" + 0.014*"border" + 0.013*"use"
+
+Topic 1: 0.057*"trump" + 0.047*"coronavirus" + 0.034*"penny" + 0.027*"american" + 0.022*"admin" + 0.015*"cancel" + 0.014*"2020" + 0.013*"charge" + 0.012*"put" + 0.012*"mike"
+
+Topic 2: 0.045*"coronavirus" + 0.035*"get" + 0.024*"like" + 0.021*"trump" + 0.018*"think" + 0.017*"say" + 0.017*"know" + 0.016*"people" + 0.014*"make" + 0.012*"would"
+
+Topic 3: 0.042*"coronavirus" + 0.035*"people" + 0.022*"flu" + 0.015*"virus" + 0.015*"kill" + 0.013*"covid 19" + 0.013*"die" + 0.012*"sery" + 0.012*"america" + 0.011*"year"
+
+Topic 4: 0.052*"coronavirus" + 0.019*"news" + 0.018*"week" + 0.017*"day" + 0.016*"washington" + 0.015*"last" + 0.014*"come" + 0.011*"california" + 0.011*"quarantine" + 0.010*"korea"
+
+Topic 5: 0.086*"coronavirus" + 0.047*"covid 19" + 0.042*"case" + 0.022*"first" + 0.018*"test" + 0.017*"new" + 0.017*"say" + 0.015*"confirm" + 0.014*"death" + 0.014*"report"
+
+Topic 6: 0.053*"coronavirus" + 0.020*"fear" + 0.017*"chinese" + 0.014*"ral" + 0.013*"china" + 0.012*"outbreak" + 0.011*"eat" + 0.010*"lit" + 0.010*"level" + 0.010*"food"
+
+Topic 7: 0.025*"coronavirus" + 0.020*"health" + 0.020*"pandemic" + 0.018*"cdc" + 0.018*"response" + 0.016*"covid 19" + 0.014*"public" + 0.013*"prepare" + 0.012*"good" + 0.011*"need"
+
+Topic 8: 0.050*"coronavirus" + 0.031*"fuck" + 0.029*"market" + 0.024*"stock" + 0.021*"trump" + 0.018*"corona" + 0.017*"idiot" + 0.015*"control" + 0.014*"beer" + 0.013*"conference"
+
+Topic 9: 0.064*"hoax" + 0.032*"real" + 0.028*"trump" + 0.023*"president" + 0.019*"great" + 0.017*"coronavirus" + 0.016*"well" + 0.016*"read" + 0.015*"anyone" + 0.011*"job"

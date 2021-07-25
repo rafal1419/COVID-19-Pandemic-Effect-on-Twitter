@@ -1,0 +1,19 @@
+Topic 0: 0.042*"coronavirus" + 0.023*"corona" + 0.022*"virus" + 0.015*"sick" + 0.013*"get" + 0.013*"hand" + 0.011*"china" + 0.010*"damn" + 0.010*"people" + 0.009*"stop"
+
+Topic 1: 0.035*"coronavirus" + 0.033*"market" + 0.026*"trump" + 0.025*"stock" + 0.021*"hoax" + 0.013*"political" + 0.013*"economy" + 0.012*"point" + 0.010*"call" + 0.010*"leader"
+
+Topic 2: 0.056*"coronavirus" + 0.029*"health" + 0.021*"state" + 0.019*"penny" + 0.014*"public" + 0.013*"say" + 0.013*"cdc" + 0.011*"charge" + 0.011*"pandemic" + 0.011*"response"
+
+Topic 3: 0.038*"coronavirus" + 0.023*"get" + 0.022*"think" + 0.021*"people" + 0.016*"like" + 0.014*"know" + 0.012*"would" + 0.012*"make" + 0.012*"real" + 0.012*"need"
+
+Topic 4: 0.088*"hoax" + 0.032*"coronavirus" + 0.017*"sad" + 0.013*"call" + 0.013*"cold" + 0.013*"hell" + 0.012*"cruise" + 0.011*"ship" + 0.011*"virus" + 0.010*"common"
+
+Topic 5: 0.056*"coronavirus" + 0.045*"flu" + 0.044*"die" + 0.042*"people" + 0.033*"kill" + 0.025*"news" + 0.016*"year" + 0.016*"rate" + 0.013*"death" + 0.010*"fake"
+
+Topic 6: 0.065*"coronavirus" + 0.063*"case" + 0.036*"first" + 0.030*"covid 19" + 0.030*"death" + 0.027*"test" + 0.024*"confirm" + 0.022*"report" + 0.021*"person" + 0.019*"number"
+
+Topic 7: 0.057*"coronavirus" + 0.030*"fear" + 0.022*"spread" + 0.021*"virus" + 0.015*"china" + 0.011*"stop" + 0.011*"chinese" + 0.010*"mask" + 0.009*"lot" + 0.008*"covid 19"
+
+Topic 8: 0.061*"coronavirus" + 0.027*"cancel" + 0.016*"2020" + 0.016*"due" + 0.015*"south" + 0.015*"outbreak" + 0.013*"ita" + 0.013*"level" + 0.013*"maga" + 0.012*"travel"
+
+Topic 9: 0.101*"trump" + 0.028*"fuck" + 0.027*"coronavirus" + 0.025*"lie" + 0.022*"president" + 0.022*"democrat" + 0.018*"say" + 0.016*"stupid" + 0.014*"idiot" + 0.014*"america"
