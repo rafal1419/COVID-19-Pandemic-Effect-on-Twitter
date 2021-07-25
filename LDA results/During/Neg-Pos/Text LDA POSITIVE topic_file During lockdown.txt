@@ -1,0 +1,19 @@
+Topic 0: 0.027*"love" + 0.022*"covid 19" + 0.020*"god" + 0.019*"famy" + 0.015*"food" + 0.013*"win" + 0.012*"bless" + 0.011*"hero" + 0.010*"pray" + 0.009*"friend"
+
+Topic 1: 0.037*"well" + 0.028*"get" + 0.020*"hope" + 0.017*"lol" + 0.016*"wish" + 0.015*"play" + 0.013*"say" + 0.013*"best" + 0.013*"soon" + 0.012*"like"
+
+Topic 2: 0.068*"covid 19" + 0.019*"support" + 0.018*"care" + 0.018*"help" + 0.015*"work" + 0.013*"worker" + 0.013*"health" + 0.012*"busy" + 0.012*"need" + 0.012*"coronavirus"
+
+Topic 3: 0.044*"lockdown" + 0.035*"quarantine" + 0.025*"day" + 0.021*"covid 19" + 0.019*"happy" + 0.017*"socialdistancing" + 0.015*"today" + 0.011*"birthday" + 0.011*"fun" + 0.011*"enjoy"
+
+Topic 4: 0.063*"covid 19" + 0.024*"covid" + 0.019*"help" + 0.017*"please" + 0.014*"share" + 0.012*"coronavirus" + 0.010*"read" + 0.009*"great" + 0.009*"live" + 0.008*"time"
+
+Topic 5: 0.060*"great" + 0.060*"good" + 0.032*"morning" + 0.031*"news" + 0.025*"beauty" + 0.023*"walk" + 0.018*"day" + 0.012*"another" + 0.010*"excellent" + 0.010*"tweet"
+
+Topic 6: 0.063*"home" + 0.057*"stay" + 0.039*"safe" + 0.032*"covid 19" + 0.029*"staysafe" + 0.028*"stayhomesavelives" + 0.026*"keep" + 0.022*"stayhome" + 0.021*"everyone" + 0.017*"easter"
+
+Topic 7: 0.182*"thank" + 0.036*"amaze" + 0.027*"covid 19" + 0.026*"fight" + 0.023*"challenge" + 0.020*"team" + 0.017*"true" + 0.017*"work" + 0.017*"much" + 0.015*"appreciate"
+
+Topic 8: 0.062*"mask" + 0.021*"wear" + 0.020*"make" + 0.019*"patient" + 0.019*"face" + 0.019*"hand" + 0.016*"get" + 0.015*"test" + 0.013*"nurse" + 0.012*"use"
+
+Topic 9: 0.026*"like" + 0.023*"get" + 0.017*"covid 19" + 0.016*"one" + 0.015*"time" + 0.014*"look" + 0.013*"covid" + 0.012*"would" + 0.012*"think" + 0.011*"see"

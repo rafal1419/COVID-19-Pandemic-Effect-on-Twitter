@@ -1,0 +1,19 @@
+Topic 0: 0.041*"covid 19" + 0.038*"test" + 0.028*"covid" + 0.016*"die" + 0.016*"people" + 0.014*"week" + 0.014*"get" + 0.013*"symptom" + 0.011*"hospital" + 0.011*"flu"
+
+Topic 1: 0.037*"covid 19" + 0.022*"pandemic" + 0.020*"due" + 0.015*"pay" + 0.014*"year" + 0.013*"cancel" + 0.013*"coronavirus" + 0.011*"time" + 0.011*"covid" + 0.009*"last"
+
+Topic 2: 0.034*"people" + 0.020*"like" + 0.018*"get" + 0.018*"think" + 0.018*"mask" + 0.015*"know" + 0.013*"real" + 0.013*"say" + 0.012*"make" + 0.011*"one"
+
+Topic 3: 0.053*"trump" + 0.032*"covid 19" + 0.014*"sad" + 0.013*"president" + 0.013*"pandemic" + 0.013*"american" + 0.013*"say" + 0.012*"coronavirus" + 0.010*"state" + 0.010*"lie"
+
+Topic 4: 0.031*"county" + 0.025*"sorry" + 0.019*"human" + 0.015*"ppl" + 0.014*"child" + 0.013*"loss" + 0.012*"whole" + 0.010*"prison" + 0.010*"release" + 0.010*"school"
+
+Topic 5: 0.060*"covid 19" + 0.023*"government" + 0.023*"coronavirus" + 0.021*"home" + 0.019*"health" + 0.019*"people" + 0.014*"care" + 0.013*"crisis" + 0.013*"need" + 0.012*"live"
+
+Topic 6: 0.098*"death" + 0.082*"covid 19" + 0.049*"case" + 0.032*"number" + 0.032*"coronavirus" + 0.028*"new" + 0.022*"report" + 0.020*"covid" + 0.016*"die" + 0.013*"confirm"
+
+Topic 7: 0.034*"get" + 0.027*"fuck" + 0.021*"covid 19" + 0.018*"covid" + 0.018*"shit" + 0.011*"people" + 0.011*"corona" + 0.010*"real" + 0.009*"like" + 0.009*"think"
+
+Topic 8: 0.022*"lockdown" + 0.021*"toll" + 0.020*"figure" + 0.018*"theyre" + 0.017*"second" + 0.017*"per" + 0.014*"scientist" + 0.012*"restrict" + 0.012*"moron" + 0.012*"slow"
+
+Topic 9: 0.038*"covid 19" + 0.032*"china" + 0.028*"coronavirus" + 0.027*"news" + 0.025*"virus" + 0.010*"government" + 0.010*"chinese" + 0.009*"world" + 0.009*"fake" + 0.009*"story"
